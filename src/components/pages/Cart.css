@@ -1,0 +1,7 @@
+.cart__emptypic {
+    mix-blend-mode: multiply;
+}
+
+.cart__prodpic {
+    max-height: 100px;
+}

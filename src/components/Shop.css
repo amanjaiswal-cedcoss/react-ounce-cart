@@ -1,0 +1,10 @@
+.container__wrap {
+    padding: 80px 10px 10px
+}
+
+.navlink {
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
